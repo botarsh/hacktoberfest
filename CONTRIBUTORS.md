@@ -78,6 +78,11 @@
 - Bio: Metalhead law student who loves hardware and code
 - GitHub: [Screwed-Up-Head](https://github.com/Screwed-Up-Head)
 
+#### Name: [Arshdeep Singh](https://github.com/botarsh)
+- Place: Pune, India
+- Bio: Metalhead freelances who loves hardware and code
+- GitHub: [botarsh](https://github.com/botarsh)
+  
 #### Name: [Adiyat Mubarak](https://github.com/Keda87)
 - Place: Jakarta, ID, Indonesia
 - Bio: Technology Agnostic
